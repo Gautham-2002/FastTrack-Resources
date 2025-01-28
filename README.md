@@ -16,8 +16,10 @@
   - [mukherjee part 2](https://www.youtube.com/watch?v=_f7h6xQXiLA)
 
 ## DevOps
+- Docker, Kubernetes
+  - [techWorldWithNana](https://www.youtube.com/results?search_query=techworld+with+nana)
 
 ## System Design
-- [bytebytego](https://www.youtube.com/@ByteByteGo)
+- [bytebytego](https://www.youtube.com/@ByteByteGo) [pdf](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)
 
 ## DSA
