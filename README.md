@@ -8,6 +8,8 @@
   - [Code Evolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY) 
 - React Js
   - [mukherjee](https://www.youtube.com/watch?v=dz458ZkBMak)
+- [Decode the web](https://www.youtube.com/@deeecode/playlists)
+- [css channel by kevin powell](https://www.youtube.com/@KevinPowell)
 
 ## Back-End
 - Node Js
@@ -23,3 +25,7 @@
 - [bytebytego](https://www.youtube.com/@ByteByteGo) [pdf](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)
 
 ## DSA
+- [take you forward by striver](https://www.youtube.com/@takeUforward)
+
+## Good to know internals
+- [core dumped](https://www.youtube.com/@CoreDumpped)
