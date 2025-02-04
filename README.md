@@ -24,6 +24,9 @@
 ## System Design
 - [bytebytego](https://www.youtube.com/@ByteByteGo) [pdf](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)
 
+## Chrome Extension
+- [Boilerplate template](https://github.com/omribarmats/chrome-extension-starter)
+
 ## DSA
 - [take you forward by striver](https://www.youtube.com/@takeUforward)
 
