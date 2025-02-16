@@ -16,6 +16,8 @@
   - [Code Evolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY)
   - [mukherjee part 1](https://www.youtube.com/watch?v=MIJt9H69QVc)
   - [mukherjee part 2](https://www.youtube.com/watch?v=_f7h6xQXiLA)
+- GO
+  - [https://www.youtube.com/@FloWoelki](https://www.youtube.com/@FloWoelki)
 
 ## DevOps
 - Docker, Kubernetes
