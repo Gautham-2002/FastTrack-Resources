@@ -18,6 +18,7 @@
   - [mukherjee part 2](https://www.youtube.com/watch?v=_f7h6xQXiLA)
 - GO
   - [https://www.youtube.com/@FloWoelki](https://www.youtube.com/@FloWoelki)
+- [Authentication and Authorization Mechanisms](https://shiva-rrad.medium.com/understanding-the-different-methods-of-authentication-and-authorization-2534de1a77f6)
 
 ## DevOps
 - Docker, Kubernetes
