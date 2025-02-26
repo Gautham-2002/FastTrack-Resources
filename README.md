@@ -35,3 +35,6 @@
 
 ## Good to know internals
 - [core dumped](https://www.youtube.com/@CoreDumpped)
+
+## Good to know tools
+- [GTM, Google Analytics, Google Ads, etc](https://www.youtube.com/@LovesData)
