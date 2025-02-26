@@ -12,6 +12,7 @@
 - [css channel by kevin powell](https://www.youtube.com/@KevinPowell)
 - [Event delegation, Event Bubbling, Event Capturing](https://www.freecodecamp.org/news/event-bubbling-and-event-capturing-in-javascript/)
 - [Async vs Defer attributes in script tag](https://dev.to/fidalmathew/async-vs-defer-in-javascript-which-is-better-26gm)
+- [Web platform docs by google ex: page lifecycle APIs](https://developer.chrome.com/docs/web-platform/page-lifecycle-api#event-blur)
 
 ## Back-End
 - Node Js
