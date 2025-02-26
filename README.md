@@ -10,6 +10,7 @@
   - [mukherjee](https://www.youtube.com/watch?v=dz458ZkBMak)
 - [Decode the web](https://www.youtube.com/@deeecode/playlists)
 - [css channel by kevin powell](https://www.youtube.com/@KevinPowell)
+- [Event delegation, Event Bubbling, Event Capturing](https://www.freecodecamp.org/news/event-bubbling-and-event-capturing-in-javascript/)
 
 ## Back-End
 - Node Js
