@@ -11,6 +11,7 @@
 - [Decode the web](https://www.youtube.com/@deeecode/playlists)
 - [css channel by kevin powell](https://www.youtube.com/@KevinPowell)
 - [Event delegation, Event Bubbling, Event Capturing](https://www.freecodecamp.org/news/event-bubbling-and-event-capturing-in-javascript/)
+- [Async vs Defer attributes in script tag](https://dev.to/fidalmathew/async-vs-defer-in-javascript-which-is-better-26gm)
 
 ## Back-End
 - Node Js
