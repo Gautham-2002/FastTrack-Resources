@@ -41,6 +41,7 @@
 
 ## Good to know internals
 - [core dumped](https://www.youtube.com/@CoreDumpped)
+- [Domain specific language](https://medium.com/wearewaes/making-your-life-easier-with-domain-specific-languages-dsl-1838d351d35)
 
 ## Good to know tools
 - [GTM, Google Analytics, Google Ads, etc](https://www.youtube.com/@LovesData)
